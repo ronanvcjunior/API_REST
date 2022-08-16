@@ -13,6 +13,7 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'class-methods-use-this': 'off',
+    'import/first': 'off',
     'no-trailing-spaces': 'off',
   },
 };
