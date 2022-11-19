@@ -16,6 +16,7 @@ var _photoRoutes = require('./routes/photoRoutes'); var _photoRoutes2 = _interop
 
 const whiteList = [
   `http://localhost:${process.env.APP_PORT}`,
+  'https://api-rest-bg0g.onrender.com',
 ];
 
 const corsOptions = {
