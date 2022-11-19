@@ -18,5 +18,7 @@ module.exports = {
     'no-empty-function': 'off',
     camelcase: 'off',
     'no-trailing-spaces': 'off',
+    'object-shorthand': 'off',
+    'func-names': 'off',
   },
 };
